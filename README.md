@@ -21,6 +21,6 @@ During my tenure, I've had the privilege of working with a variety of GCP servic
 
 ## Connect with me :
 <p align="left">
-<a href="https://www.linkedin.com/in/yogesh-tiwari-4716091b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/23goyalsachin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yogesh-tiwari-4716091b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yogesh-tiwari-4716091b9" height="30" width="40" /></a>
 </p>
 
