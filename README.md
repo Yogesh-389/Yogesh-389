@@ -1,5 +1,5 @@
-### Hi there 👋
-# About Me
+# Hi there 👋
+## About Me
 
 I'm a Dynamic **Data Engineer** with 1.2+ years of hands-on experience in ETL and Big Data technologies. My expertise spans PySpark, Apache Airflow, GCP BigQuery, Databricks, GCP Pub/Sub, and Snowflake. Passionate about leveraging cutting-edge tools and methodologies to drive impactful data-driven projects.
 
